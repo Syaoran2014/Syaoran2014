@@ -1,6 +1,6 @@
 - Hi, I’m @Syaoran2014
 - I'm interested in Artificial Intelligence, Cloud Engineering and other Coding Projects I find an interest in.
-- I’m currently learning Cyber Security, Cloud Computing and Management (both Azure and AWS), C# (and other Languages that may come up)
+- I’m currently learning Cyber Security, Cloud Computing and Management (both Azure and AWS), C# and Python (and other Languages that may come up)
 - How to reach me 
   - Discord: Syaoran#0001
 
