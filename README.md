@@ -1,8 +1,9 @@
-- Hi, I’m @Syaoran2014
-- I'm interested in Artificial Intelligence, Cloud Engineering and other Coding Projects I find an interest in.
-- I’m currently learning Cyber Security, Cloud Computing and Management (both Azure and AWS), C# and Python (and other Languages that may come up)
-- How to reach me 
-  - Discord: Syaoran#0001
+Hi, I’m @Syaoran2014
+- I'm passionate about Artificial Intelligence and various Coding Projects that pique my interest.
+- Currently, my primary focus is on JavaScript. I also have experience in programming languages like C# and Python.
+- I'm also interested in Cyber Security and continuously expanding my knowledge in this field.
+- How to reach me:
+   - Discord: Syaoran
 
 <!---
 Syaoran2014/Syaoran2014 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
